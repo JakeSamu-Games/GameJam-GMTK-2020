@@ -1,2 +1,7 @@
 Maustaste drücken um die Spielfigur wegzuschieben.
 Das ist die einzige Art die Figur zu kontrollieren.
+
+Spoiler: Das Menü ist bis jetzt nur ein blauer Bildschirm ohne irgendwas.
+Zum Spielstart wähle Level aus mit Tasten 1-3, oder starte den höchsten noch nicht geschafften Level mit der Leertaste.
+Ein Level startet sobald die Leertaste gedrückt wird.
+Innerhalb eines Levels mit "R" wird der Level resettet, mit Escape kommt man wieder ins Menü.
